@@ -1,0 +1,24 @@
+:root{
+    font-size: 62.5;
+    margin:  0;
+}
+
+body{
+    font-size: 1.5rem
+    ;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+.row{
+    display: flex;
+}
+.home-office{
+    background-color: aqua;
+}
+
+.house{
+    background-color: blueviolet;
+}
